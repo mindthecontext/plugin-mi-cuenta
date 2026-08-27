@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "mi-cuenta": {
+      "type": "http",
+      "url": "https://mi-cuenta.mcp.mindthecontext.ai/mcp"
+    }
+  }
+}
