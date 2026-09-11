@@ -6,4 +6,4 @@ Lo genera y lo empuja la fábrica privada <https://github.com/mindthecontext/sab
 
 Los catálogos lo referencian por `git-subdir` apuntando a `claude/` o `codex/` y fijando un `ref`.
 
-Publicado: `v1.1.0`
+Publicado: `v1.1.1`
