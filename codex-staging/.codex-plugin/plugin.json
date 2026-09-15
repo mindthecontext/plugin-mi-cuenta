@@ -1,0 +1,22 @@
+{
+  "name": "mi-cuenta-mindthecontext-staging",
+  "version": "1.2.0",
+  "description": "Qué identidad reconoce MindTheContext para esta cuenta y qué servicios tiene habilitados, con el diagnóstico de por qué uno no está disponible.",
+  "author": {
+    "name": "MindTheContext"
+  },
+  "repository": "https://github.com/mindthecontext/saber-mi-cuenta",
+  "keywords": [
+    "account",
+    "identity",
+    "entitlements",
+    "mindthecontext"
+  ],
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "Mi Cuenta MindTheContext",
+    "shortDescription": "Qué identidad se reconoce y qué servicios están habilitados",
+    "longDescription": "Responde quién eres para MindTheContext, qué servicios tienes disponibles y por qué uno no lo está: sin contrato vigente, sin asiento, con el correo sin verificar o con otra identidad. Es la puerta de entrada al resto: cuando un saber dice que no, aquí se ve el motivo."
+  },
+  "mcpServers": "./.mcp.json"
+}

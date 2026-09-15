@@ -14,6 +14,7 @@ Es de solo lectura: informa, no cambia habilitaciones. Para dar de alta a alguie
 | `mis_servicios` | Qué servicios puede usar esta cuenta y cuáles no, con el motivo de cada uno. |
 | `diagnosticar_acceso` | Por qué un servicio concreto no está disponible y qué hacer para conseguirlo. |
 | `estado_del_servicio` | Vista técnica: qué claims llegaron en el token y qué exige la puerta de entrada. |
+| `ver_cambios` | Qué cambió en el servicio de una versión a otra y en qué versión corre. Antes de su línea base no hay registro: dilo así. |
 
 ## Invoca la herramienta, no respondas por inferencia
 
