@@ -1,0 +1,17 @@
+{
+  "name": "mi-cuenta-mindthecontext",
+  "version": "1.2.2",
+  "description": "Qué identidad reconoce MindTheContext para esta cuenta y qué servicios tiene habilitados, con el diagnóstico de por qué uno no está disponible.",
+  "author": {
+    "name": "MindTheContext"
+  },
+  "repository": "https://github.com/mindthecontext/saber-mi-cuenta",
+  "keywords": [
+    "account",
+    "identity",
+    "entitlements",
+    "mindthecontext"
+  ],
+  "homepage": "https://github.com/mindthecontext/saber-mi-cuenta",
+  "mcpServers": "./.mcp.json"
+}

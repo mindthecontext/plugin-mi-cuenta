@@ -1,6 +1,6 @@
 {
   "name": "mi-cuenta-mindthecontext-staging",
-  "version": "1.2.1",
+  "version": "1.2.2",
   "description": "Qué identidad reconoce MindTheContext para esta cuenta y qué servicios tiene habilitados, con el diagnóstico de por qué uno no está disponible.",
   "author": {
     "name": "MindTheContext"
